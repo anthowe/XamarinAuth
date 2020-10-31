@@ -1,0 +1,1 @@
+<resources><string name="gcm_defaultSenderId" translatable="false">772296575399</string><string name="firebase_database_url" translatable="false">https://fir-xamarin-fd8f1.firebaseio.com</string><string name="google_storage_bucket" translatable="false">fir-xamarin-fd8f1.appspot.com</string></resources>

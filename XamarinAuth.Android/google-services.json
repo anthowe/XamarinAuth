@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "772296575399",
+    "firebase_url": "https://fir-xamarin-fd8f1.firebaseio.com",
+    "project_id": "fir-xamarin-fd8f1",
+    "storage_bucket": "fir-xamarin-fd8f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772296575399:android:07b4930d0c760bd9f3ce82",
+        "android_client_info": {
+          "package_name": "com.anthonyh.XamarinAuth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772296575399-42oi5ku78jpv7hmmrc3ua3h7gkks3sb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTP9FVVxGz7_BcxMRly-pu4i3ZEAQUm4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772296575399-42oi5ku78jpv7hmmrc3ua3h7gkks3sb9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "772296575399-lu92646g0rmf3mgdj32lo3pthqtsv77e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anthonyh.XamarinAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

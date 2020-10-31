@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uafBsuwH+ei1D/0ujBepvXkCz9lop9yY1xuPqd1UbUxsh3yOXifQSVgS5t86MorzVCaiYgdy4oRA/nzD1rD6dg==",
+  "success": true,
+  "projectFilePath": "/Users/anthonyhowe/Desktop/XamarinAuth/XamarinAuth/XamarinAuth.csproj",
+  "expectedPackageFiles": [
+    "/Users/anthonyhowe/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/anthonyhowe/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/anthonyhowe/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/anthonyhowe/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/anthonyhowe/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

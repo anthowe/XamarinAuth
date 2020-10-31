@@ -1,0 +1,14 @@
+/Users/anthonyhowe/Desktop/XamarinAuth/XamarinAuth/bin/Debug/netstandard2.0/XamarinAuth.deps.json
+/Users/anthonyhowe/Desktop/XamarinAuth/XamarinAuth/bin/Debug/netstandard2.0/XamarinAuth.dll
+/Users/anthonyhowe/Desktop/XamarinAuth/XamarinAuth/bin/Debug/netstandard2.0/ref/XamarinAuth.dll
+/Users/anthonyhowe/Desktop/XamarinAuth/XamarinAuth/bin/Debug/netstandard2.0/XamarinAuth.pdb
+/Users/anthonyhowe/Desktop/XamarinAuth/XamarinAuth/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/anthonyhowe/Desktop/XamarinAuth/XamarinAuth/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+/Users/anthonyhowe/Desktop/XamarinAuth/XamarinAuth/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/anthonyhowe/Desktop/XamarinAuth/XamarinAuth/obj/Debug/netstandard2.0/XamarinAuth.AssemblyInfoInputs.cache
+/Users/anthonyhowe/Desktop/XamarinAuth/XamarinAuth/obj/Debug/netstandard2.0/XamarinAuth.AssemblyInfo.cs
+/Users/anthonyhowe/Desktop/XamarinAuth/XamarinAuth/obj/Debug/netstandard2.0/XamarinAuth.csproj.CoreCompileInputs.cache
+/Users/anthonyhowe/Desktop/XamarinAuth/XamarinAuth/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/anthonyhowe/Desktop/XamarinAuth/XamarinAuth/obj/Debug/netstandard2.0/XamarinAuth.dll
+/Users/anthonyhowe/Desktop/XamarinAuth/XamarinAuth/obj/Debug/netstandard2.0/ref/XamarinAuth.dll
+/Users/anthonyhowe/Desktop/XamarinAuth/XamarinAuth/obj/Debug/netstandard2.0/XamarinAuth.pdb

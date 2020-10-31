@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{493F045D-EB9A-4E1E-B60C-37DF0E08677C}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinAuth.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0A1C3195-677F-4525-A57B-DF2D2567AAE2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinAuth/Views/MainPage.xaml.cs">
+    <Files>
+      <File FileName="XamarinAuth/App.xaml" Line="4" Column="14" />
+      <File FileName="XamarinAuth/App.xaml.cs" Line="25" Column="14" />
+      <File FileName="XamarinAuth/Views/MainPage.xaml" Line="15" Column="1" />
+      <File FileName="XamarinAuth/Views/MainPage.xaml.cs" Line="26" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinAuth" expanded="True">
+            <Node name="XamarinAuth" expanded="True">
+              <Node name="System" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="LoginPage.xaml" expanded="True" />
+                <Node name="MainPage.xaml" expanded="True">
+                  <Node name="MainPage.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="XamarinAuth.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="System" expanded="True" />
+            </Node>
+            <Node name="XamarinAuth.iOS" expanded="True">
+              <Node name="System" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamarinAuth.Android PreferredExecutionTarget="Android.galaxy_nexus_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
